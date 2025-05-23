@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Question2_Two_Best_Time_To_Buy_And_Sell_Stocks/1.0.0": {
+        "runtime": {
+          "Question2_Two_Best_Time_To_Buy_And_Sell_Stocks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question2_Two_Best_Time_To_Buy_And_Sell_Stocks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

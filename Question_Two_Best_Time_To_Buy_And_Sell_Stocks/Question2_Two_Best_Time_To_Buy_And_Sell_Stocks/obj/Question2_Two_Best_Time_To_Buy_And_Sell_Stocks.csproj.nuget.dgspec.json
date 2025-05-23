@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\LeetCode\\Question_One_Two_Sum\\Question1_TwoSum\\Question1_TwoSum.csproj": {}
+    "D:\\LeetCode\\Question_Two_Best_Time_To_Buy_And_Sell_Stocks\\Question2_Two_Best_Time_To_Buy_And_Sell_Stocks\\Question2_Two_Best_Time_To_Buy_And_Sell_Stocks.csproj": {}
   },
   "projects": {
-    "d:\\LeetCode\\Question_One_Two_Sum\\Question1_TwoSum\\Question1_TwoSum.csproj": {
+    "D:\\LeetCode\\Question_Two_Best_Time_To_Buy_And_Sell_Stocks\\Question2_Two_Best_Time_To_Buy_And_Sell_Stocks\\Question2_Two_Best_Time_To_Buy_And_Sell_Stocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\LeetCode\\Question_One_Two_Sum\\Question1_TwoSum\\Question1_TwoSum.csproj",
-        "projectName": "Question1_TwoSum",
-        "projectPath": "d:\\LeetCode\\Question_One_Two_Sum\\Question1_TwoSum\\Question1_TwoSum.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Question_Two_Best_Time_To_Buy_And_Sell_Stocks\\Question2_Two_Best_Time_To_Buy_And_Sell_Stocks\\Question2_Two_Best_Time_To_Buy_And_Sell_Stocks.csproj",
+        "projectName": "Question2_Two_Best_Time_To_Buy_And_Sell_Stocks",
+        "projectPath": "D:\\LeetCode\\Question_Two_Best_Time_To_Buy_And_Sell_Stocks\\Question2_Two_Best_Time_To_Buy_And_Sell_Stocks\\Question2_Two_Best_Time_To_Buy_And_Sell_Stocks.csproj",
         "packagesPath": "C:\\Users\\gmuke\\.nuget\\packages\\",
-        "outputPath": "d:\\LeetCode\\Question_One_Two_Sum\\Question1_TwoSum\\obj\\",
+        "outputPath": "D:\\LeetCode\\Question_Two_Best_Time_To_Buy_And_Sell_Stocks\\Question2_Two_Best_Time_To_Buy_And_Sell_Stocks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gmuke\\AppData\\Roaming\\NuGet\\NuGet.Config"
