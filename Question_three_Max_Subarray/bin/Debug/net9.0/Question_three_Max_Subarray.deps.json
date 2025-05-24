@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Question_three_Max_Subarray/1.0.0": {
+        "runtime": {
+          "Question_three_Max_Subarray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Question_three_Max_Subarray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
