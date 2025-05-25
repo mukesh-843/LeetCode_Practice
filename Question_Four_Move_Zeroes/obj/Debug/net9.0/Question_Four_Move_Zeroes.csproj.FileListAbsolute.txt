@@ -1,0 +1,15 @@
+D:\LeetCode\Question_Four_Move_Zeroes\bin\Debug\net9.0\Question_Four_Move_Zeroes.exe
+D:\LeetCode\Question_Four_Move_Zeroes\bin\Debug\net9.0\Question_Four_Move_Zeroes.deps.json
+D:\LeetCode\Question_Four_Move_Zeroes\bin\Debug\net9.0\Question_Four_Move_Zeroes.runtimeconfig.json
+D:\LeetCode\Question_Four_Move_Zeroes\bin\Debug\net9.0\Question_Four_Move_Zeroes.dll
+D:\LeetCode\Question_Four_Move_Zeroes\bin\Debug\net9.0\Question_Four_Move_Zeroes.pdb
+D:\LeetCode\Question_Four_Move_Zeroes\obj\Debug\net9.0\Question_Four_Move_Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Question_Four_Move_Zeroes\obj\Debug\net9.0\Question_Four_Move_Zeroes.AssemblyInfoInputs.cache
+D:\LeetCode\Question_Four_Move_Zeroes\obj\Debug\net9.0\Question_Four_Move_Zeroes.AssemblyInfo.cs
+D:\LeetCode\Question_Four_Move_Zeroes\obj\Debug\net9.0\Question_Four_Move_Zeroes.csproj.CoreCompileInputs.cache
+D:\LeetCode\Question_Four_Move_Zeroes\obj\Debug\net9.0\Question_Four_Move_Zeroes.sourcelink.json
+D:\LeetCode\Question_Four_Move_Zeroes\obj\Debug\net9.0\Question_Four_Move_Zeroes.dll
+D:\LeetCode\Question_Four_Move_Zeroes\obj\Debug\net9.0\refint\Question_Four_Move_Zeroes.dll
+D:\LeetCode\Question_Four_Move_Zeroes\obj\Debug\net9.0\Question_Four_Move_Zeroes.pdb
+D:\LeetCode\Question_Four_Move_Zeroes\obj\Debug\net9.0\Question_Four_Move_Zeroes.genruntimeconfig.cache
+D:\LeetCode\Question_Four_Move_Zeroes\obj\Debug\net9.0\ref\Question_Four_Move_Zeroes.dll
